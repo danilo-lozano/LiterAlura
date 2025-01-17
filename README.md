@@ -1,6 +1,6 @@
 # Literalura - API de Libros
 
-Este es un proyecto de Spring Boot que interactúa con la API de Gutendex para buscar libros por título. Además, permite realizar operaciones CRUD en una base de datos PostgreSQL para gestionar libros y autores.
+Este es un proyecto de Spring Boot que interactúa con la API de Gutendex para buscar libros por título o autor.
 
 ## Tecnologías utilizadas
 
