@@ -19,29 +19,6 @@ Asegúrate de tener instalados los siguientes programas en tu computadora:
 - **Maven** (para gestionar las dependencias y construir el proyecto).
 - **Git** (para gestionar el repositorio y subir cambios a GitHub).
 
-## Instalación
-
-1. Clona el repositorio:
-
-   `git clone https://github.com/tuusuario/literalura.git`
-
-   Luego, navega a la carpeta del proyecto:
-   
-   `cd literalura`
-
-2. Configura tu base de datos PostgreSQL:
-
-   Asegúrate de tener PostgreSQL instalado y en ejecución. Luego crea una base de datos llamada `literalura` y configura tu archivo `src/main/resources/application.properties` con las credenciales correspondientes.
-
-3. Construye el proyecto con Maven:
-
-   `mvn clean install`
-
-4. Ejecuta la aplicación:
-
-   `mvn spring-boot:run`
-
-5. La aplicación estará corriendo en `http://localhost:8080`. Puedes probar las rutas de la API utilizando herramientas como Postman o directamente desde tu navegador.
 
 ## Endpoints disponibles
 
